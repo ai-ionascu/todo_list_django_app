@@ -30,6 +30,7 @@ ALLOWED_HOSTS = [os.environ.get('C9_HOSTNAME'),
                 os.environ.get('HOSTNAME')]
 
 host=os.environ.get('SITE_HOST')
+
 if host:
     ALLOWED_HOSTS.append(host)
 
