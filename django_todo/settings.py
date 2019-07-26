@@ -26,7 +26,7 @@ SECRET_KEY = 'r6!qw+enti^k@$!phxt$%6gkq8e4r%gfw+g2n%=vilzggptl7+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['c53c9bd327124bf095cfac19b491b224.vfs.cloud9.us-east-1.amazonaws.com']
+ALLOWED_HOSTS = ['c53c9bd327124bf095cfac19b491b224.vfs.cloud9.us-east-1.amazonaws.com', 'ioni-django-app.herokuapp.com']
 
 
 # Application definition
